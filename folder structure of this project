@@ -1,0 +1,20 @@
+brazilian-ecommerce-olist-analytics/   <-- Main GitHub Repository
+│
+├── data/
+│   └── README.md                      <-- Links to Kaggle & clean CSV instructions
+│
+├── notebooks/
+│   └── 01_data_cleaning_eda.ipynb     <-- Google Colab Python cleaning code
+│
+├── sql/
+│   ├── 01_schema_setup.sql            <-- SQL table creation
+│   └── 02_analytical_queries.sql     <-- SQL KPI queries
+│
+├── dashboard/
+│   ├── olist_analytics.pbix           <-- Power BI project file
+│   └── dashboard_preview.png          <-- Image screenshot for presentation
+│
+├── notes/
+│   └── interview_notes.md             <-- Your step-by-step learning & interview prep
+│
+└── README.md                          <-- Main landing page for recruiters
